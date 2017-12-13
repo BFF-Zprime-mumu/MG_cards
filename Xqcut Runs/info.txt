@@ -1,0 +1,7 @@
+These cards were used to generate:
+p p > Z' + 0/1/2 jets, Z' > mu+ mu-
+for the purpose of finding appropriate matching parameters xqcut and qcut 
+and estimate the errors due to their variation.
+The s-b-Z' coupling is included in the decay width but not the production cross section
+			===> Do not use the cross sections for any other purpose
+The results are summarized here: https://docs.google.com/spreadsheets/d/1--yPO7768DwVMjt2pLIwr9_2Br9HZZ_aL5MqNihl4rc/edit?usp=sharing
